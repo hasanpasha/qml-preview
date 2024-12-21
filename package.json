@@ -1,7 +1,14 @@
 {
   "name": "qml-preview",
   "displayName": "QML preview",
-  "description": "",
+  "description": "simple extension to preview qt qml files with `qml` command",
+  "author": {
+    "name": "Hasan Pasha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hasanpasha/qml-preview"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.96.0"
