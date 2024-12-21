@@ -5,6 +5,7 @@
   "author": {
     "name": "Hasan Pasha"
   },
+  "publisher": "HasanPasha",
   "repository": {
     "type": "git",
     "url": "https://github.com/hasanpasha/qml-preview"
